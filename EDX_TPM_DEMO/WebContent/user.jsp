@@ -8,8 +8,10 @@
 </head>
 <body>
 
+	<!-- Header Part -->
 	<%@ include file="userheader.jsp"%>
 
+	<!-- Footer Part -->
 	<%@ include file="footer.jsp"%>
 
 </body>
